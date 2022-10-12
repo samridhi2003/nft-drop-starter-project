@@ -1,5 +1,8 @@
 # buildspace Solana NFT Drop Project
 ### Welcome 👋
+
+link to the deployed website :-  https://nft-drop-starter-project-d36eb5.spheron.app/ 
+
 To get started with this course, clone this repo and follow these commands:
 
 1. cd into the `app` folder
